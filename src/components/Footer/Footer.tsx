@@ -34,7 +34,7 @@ export default function Footer() {
               </span>
             </a>
             <p className={styles.brandDescription}>
-              Next-generation AI infrastructure for teams building intelligent applications at scale.
+              Next-generation GenAI infrastructure for teams building intelligent applications at scale.
             </p>
 
             {/* Social Links */}
